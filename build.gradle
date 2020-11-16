@@ -28,8 +28,10 @@ buildscript {
         mavenLocal()
         mavenCentral()
         jcenter()
-        maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda' }
+       // maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda' }
+        maven { url 'https://software.r3.com/artifactory/corda' }
     }
+
 
     dependencies {
         classpath "net.corda.plugins:cordapp:$corda_gradle_plugins_version"
@@ -49,11 +51,13 @@ allprojects {
         mavenLocal()
         jcenter()
         mavenCentral()
-        maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda' }
+      //  maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda' }
+        maven { url 'https://software.r3.com/artifactory/corda' }
         maven { url 'https://jitpack.io' }
         // Can be removed post-release - used to get nightly snapshot build.
-        maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda-lib' }
-        maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda-lib-dev' }
+        //maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda-lib' }
+        maven { url 'https://software.r3.com/artifactory/corda-lib' }
+
         maven { url 'https://repo.gradle.org/gradle/libs-releases' }
     }
 
@@ -124,18 +128,23 @@ dependencies {
 }
 
 task deployNodes(type: net.corda.plugins.Cordform, dependsOn: ['jar']) {
+
     nodeDefaults {
+
         projectCordapp {
             deploy = false
         }
         cordapp("$tokens_release_group:tokens-contracts:$tokens_release_version")
         cordapp("$tokens_release_group:tokens-workflows:$tokens_release_version")
         cordapp("$tokens_release_group:tokens-money:$tokens_release_version")
+
+
         cordapp "$confidential_id_release_group:ci-workflows:$confidential_id_release_version"
         cordapp "$accounts_release_group:accounts-contracts:$accounts_release_version"
         cordapp "$accounts_release_group:accounts-workflows:$accounts_release_version"
         cordapp project(':contracts')
         cordapp project(':workflows')
+
     }
     node {
         name "O=Notary,L=London,C=GB"

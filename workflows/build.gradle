@@ -55,6 +55,8 @@ dependencies {
     // Token SDK dependencies.
     cordaCompile "$tokens_release_group:tokens-money:$tokens_release_version"
     cordaCompile "$tokens_release_group:tokens-workflows:$tokens_release_version"
+    cordaCompile "$tokens_release_group:tokens-selection:$tokens_release_version-HOTFIX"
+
 
     // Accounts dependencies
     cordaCompile "$confidential_id_release_group:ci-workflows:$confidential_id_release_version"
