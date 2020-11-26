@@ -30,6 +30,7 @@ buildscript {
         jcenter()
        // maven { url 'https://ci-artifactory.corda.r3cev.com/artifactory/corda' }
         maven { url 'https://software.r3.com/artifactory/corda' }
+
     }
 
 
@@ -39,7 +40,7 @@ buildscript {
         classpath "net.corda.plugins:quasar-utils:$corda_gradle_plugins_version"
         // For guava
         classpath "com.google.guava:guava:16+"
-
+        classpath files('lib/business-networks-workflows-1.0-SNAPSHOT.jar')
 
     }
 }
@@ -69,6 +70,7 @@ allprojects {
         // This makes the JAR's SHA-256 hash repeatable.
         preserveFileTimestamps = false
         reproducibleFileOrder = true
+        duplicatesStrategy = DuplicatesStrategy.EXCLUDE
     }
 }
 
@@ -125,6 +127,7 @@ dependencies {
 
     compile group: 'com.google.guava', name: 'guava', version: '29.0-jre'
 
+    runtime fileTree(dir: 'lib', include: ['*.jar'])
 }
 
 task deployNodes(type: net.corda.plugins.Cordform, dependsOn: ['jar']) {

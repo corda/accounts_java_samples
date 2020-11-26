@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94cbf482-2e8f-4247-853f-3bc51eeac252" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/business-networks-workflows-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yo-cordapp-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflows/logs/archive/node-20LDN-MAC295.local.2020-11-16-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflows/logs/archive/node-20LDN-MAC295.local.2020-11-17-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/org/r3/flows/KYCAllocationFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflows/src/main/java/org/r3/flows/KYCDeliveryFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workflows/src/test/java/org/r3/tests/BusinessNetworkTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/accounts_java_samples-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/accounts_java_samples-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/build/libs/contracts-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/build/libs/contracts-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CDL/AssetIssuance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CDL/Atomic DvP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/CDL/SingleAssetState.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dayTwo/AccountsSDK.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dayTwo/CordaCloud&amp;Containerisation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dayTwo/CordaDesignLanguage.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/lib/corda-tools-blob-inspector-4.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/dayTwo/~$CordaCloud&amp;Containerisation.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/classes/java/integrationTest/net/corda/examples/dollartohousetoken/contracts/DriverBasedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/classes/java/test/org/r3/tests/FlowTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/generated-custom-cordapps/20201116-123945.148/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/generated-custom-cordapps/20201116-133725.695-F134E7E28A14CB99/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/libs/workflows-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/build/libs/workflows-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/accounts-contracts-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/accounts-workflows-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/ci-workflows-1.0-RC03.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/config/accounts-contracts-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/config/accounts-workflows-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/config/ci-workflows-1.0-RC03.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/accounts-contracts-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/accounts-workflows-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/ci-workflows-1.0-RC03.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/config/accounts-contracts-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/config/accounts-workflows-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/config/ci-workflows-1.0-RC03.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/accounts-contracts-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/accounts-workflows-1.0-RC04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/ci-workflows-1.0-RC03.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/config/accounts-contracts-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/config/accounts-workflows-1.0-RC04.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/config/ci-workflows-1.0-RC03.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20200127-150010.685/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133518.235/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133622.602-6C3071CC1C5E5A40/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-133819.383-0A20EAA24EA97C93/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134216.139-E28F1EF72682CC1B/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-134610.481-DCDBFE974DAAD4AA/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/0/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/additional-node-infos/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/1/nodeInfo-A8544DFCBA84D0B85B56D7985556CF71EC2F4C1F82800ECB9485E9C70A909B07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/additional-node-infos/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/accounts-contracts-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/accounts-workflows-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/ci-workflows-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/config/accounts-contracts-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/config/accounts-workflows-1.0.2.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/config/ci-workflows-1.0.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/config/contracts-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/config/workflows-0.1.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/contracts-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/cordapps/workflows-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mock-network/20201116-143352.436-4EB055787A02EA3E/nodes/2/nodeInfo-F33DD0AFC6AA1C3DA5BBB809206BCBD75352B18581B9132BB93FEC434E07E8E3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_0_net_1556955867149159601/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_0_net_3442523772306289330/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_0_net_5874344281077749039/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_0_net_5897600018460694511/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_0_net_8270233631766785833/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_1_net_3442523772306289330/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_1_net_5874344281077749039/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_1_net_5897600018460694511/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_1_net_8270233631766785833/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_2_net_3442523772306289330/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_2_net_5874344281077749039/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_2_net_5897600018460694511/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/mocknetworktestdb/node_2_net_8270233631766785833/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/cordapps/config/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/cordapps/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankA/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/cordapps/config/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/cordapps/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/BankB/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/cordapps/config/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/cordapps/custom-cordapp_1_7_f9dd98e3-eb0f-4108-b869-0ad32a59c147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-123944.998/NotaryService/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/cordapps/config/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/cordapps/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankA/persistence.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/cordapps/config/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/cordapps/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/BankB/persistence.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/additional-node-infos/nodeInfo-05D44202063106A73C5E5C1BD39C6E560F2F65244904900D3DFE4B04230AE695" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/additional-node-infos/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/additional-node-infos/nodeInfo-EC3A33039DF8A4F9EC0BF646A13A1CF5B08593DF78881F75489D25C9AA51CFD1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/artemis/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/artemis/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/artemis/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/artemis/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/artemis/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/brokers/rpc/bindings/activemq-bindings-1.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/brokers/rpc/bindings/activemq-bindings-2.bindings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/brokers/rpc/journal/activemq-data-1.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/brokers/rpc/journal/activemq-data-2.amq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/brokers/rpc/journal/server.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/certificates/nodekeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/certificates/sslkeystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/certificates/truststore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/cordapps/config/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/cordapps/custom-cordapp_1_8_05ca4875-a90b-4765-9e50-87f5b115224c.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/network-parameters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/node.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/nodeInfo-9305A969F68D45C1CECDDA5BE4C12989D7414F71A38B03F07687716ED79E2F36" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/persistence.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/node-driver/20201116-133725.541-A524B6D6F7C496DC/NotaryService/persistence.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/classes/net.corda.examples.dollartohousetoken.contracts.DriverBasedTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/integrationTest/packages/net.corda.examples.dollartohousetoken.contracts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/classes/org.r3.tests.FlowTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/reports/tests/test/packages/org.r3.tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/resources/test/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/integrationTest/TEST-net.corda.examples.dollartohousetoken.contracts.DriverBasedTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/integrationTest/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/integrationTest/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/integrationTest/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/test/TEST-org.r3.tests.FlowTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/logs/node-20LDN-MAC295.local.log" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/logs/node-20LDN-MAC295.local.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workflows/src/test/java/org/r3/tests/FlowTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/workflows/src/test/java/org/r3/tests/FlowTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kTTkDWSAD2XJIt0g5nf2Kh1jzh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/workflows/src/main/java/org/r3/flows" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5712644" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.r3.flows" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/workflows/src/main/java/org/r3/flows" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FlowTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.r3.tests.FlowTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":workflows:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FlowTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94cbf482-2e8f-4247-853f-3bc51eeac252" name="Default Changelist" comment="" />
+      <created>1605723722957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605723722957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1188" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1606388910179">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1188" y="234" key="#com.intellij.ide.util.MemberChooser/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606388910179" />
+    <state x="-1174" y="207" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1605725821886">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1174" y="207" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605725821886" />
+    <state x="-1274" y="268" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1605725823500">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1274" y="268" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1041@-1920.-17.1920.1057" timestamp="1605723998327" />
+    <state x="-1274" y="268" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605725823500" />
+    <state width="1672" height="297" key="GridCell.Tab.0.bottom" timestamp="1606385747168">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="297" key="GridCell.Tab.0.bottom/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606385747168" />
+    <state width="1672" height="358" key="GridCell.Tab.0.bottom/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397625" />
+    <state width="1672" height="297" key="GridCell.Tab.0.center" timestamp="1606385747166">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="297" key="GridCell.Tab.0.center/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606385747166" />
+    <state width="1672" height="358" key="GridCell.Tab.0.center/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397622" />
+    <state width="1672" height="297" key="GridCell.Tab.0.left" timestamp="1606385747165">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="297" key="GridCell.Tab.0.left/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606385747165" />
+    <state width="1672" height="358" key="GridCell.Tab.0.left/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397621" />
+    <state width="1672" height="297" key="GridCell.Tab.0.right" timestamp="1606385747167">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="297" key="GridCell.Tab.0.right/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606385747167" />
+    <state width="1672" height="358" key="GridCell.Tab.0.right/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397623" />
+    <state width="1672" height="2" key="GridCell.Tab.1.bottom" timestamp="1606232087725">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="2" key="GridCell.Tab.1.bottom/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606232087725" />
+    <state width="1672" height="358" key="GridCell.Tab.1.bottom/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397630" />
+    <state width="1672" height="2" key="GridCell.Tab.1.center" timestamp="1606232087723">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="2" key="GridCell.Tab.1.center/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606232087723" />
+    <state width="1672" height="358" key="GridCell.Tab.1.center/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397627" />
+    <state width="1672" height="2" key="GridCell.Tab.1.left" timestamp="1606232087723">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="2" key="GridCell.Tab.1.left/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606232087723" />
+    <state width="1672" height="358" key="GridCell.Tab.1.left/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397626" />
+    <state width="1672" height="2" key="GridCell.Tab.1.right" timestamp="1606232087724">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state width="1672" height="2" key="GridCell.Tab.1.right/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606232087724" />
+    <state width="1672" height="358" key="GridCell.Tab.1.right/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605802397628" />
+    <state x="-1312" y="88" key="SettingsEditor" timestamp="1605794001708">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1524" y="88" key="SettingsEditor/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1041@-1920.-17.1920.1057" timestamp="1605723999294" />
+    <state x="-1312" y="88" key="SettingsEditor/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605794001708" />
+    <state x="-1289" y="406" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605723997682">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1289" y="406" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1041@-1920.-17.1920.1057" timestamp="1605723997682" />
+    <state x="-1305" y="261" width="890" height="523" key="find.popup" timestamp="1606392355711">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1305" y="261" width="890" height="523" key="find.popup/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606392355711" />
+    <state x="-1305" y="261" width="586" height="490" key="find.popup/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1041@-1920.-17.1920.1057" timestamp="1605724251252" />
+    <state x="574" y="294" width="608" height="510" key="find.popup/0.23.1792.1032@0.23.1792.1032" timestamp="1606057969715" />
+    <state x="-1305" y="261" width="651" height="522" key="find.popup/1792.23.1920.1057/-1920.-17.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1605888227029" />
+    <state x="-1336" y="218" key="search.everywhere.popup" timestamp="1606384575725">
+      <screen x="-1920" y="-17" width="1920" height="1057" />
+    </state>
+    <state x="-1336" y="218" key="search.everywhere.popup/-1920.-17.1920.1057/1792.23.1920.1057/0.23.1792.1032@-1920.-17.1920.1057" timestamp="1606384575725" />
+  </component>
+</project>
